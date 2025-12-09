@@ -1,0 +1,40 @@
+.box1
+{
+    background-color: lightgreen;
+    border: 2px solid black;
+    font-size: 60px;
+    text-align: center;
+    margin: 10px;
+    width: 150px;
+    height: 150px;
+}
+.box2
+{
+    background-color: rgb(114, 226, 39);
+    border: 2px solid black;
+    font-size: 60px;
+    text-align: center;
+    margin: 10px;
+    width: 150px;
+    height: 150px;
+}
+.box3
+{
+    background-color: #558137;
+    border: 2px solid black;
+    font-size: 60px;
+    text-align: center;
+    margin: 10px;
+    width: 150px;
+    height: 150px;
+}
+.box4
+{
+    background-color: hsl(120, 93%, 48%);
+    border: 2px solid black;
+    font-size: 60px;
+    text-align: center;
+    margin: 10px;
+    width: 150px;
+    height: 150px;
+}
